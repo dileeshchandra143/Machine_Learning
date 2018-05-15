@@ -1,7 +1,5 @@
 import cv2
-#importing the module to resize the images
 import numpy as np
-#To access specific pixels of an image save as arrays to store and operate on data
 import os
 #Assigns its path attribute to an os specific path module
 from random import shuffle
