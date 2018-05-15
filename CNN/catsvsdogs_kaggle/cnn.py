@@ -1,7 +1,6 @@
 import cv2
 import numpy as np
 import os
-#Assigns its path attribute to an os specific path module
 from random import shuffle
 #To shuffle the ordered data
 
