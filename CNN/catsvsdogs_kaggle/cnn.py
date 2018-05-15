@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import os
 from random import shuffle
-#To shuffle the ordered data
+
 
 
 TRAIN_DIR = r'C:\Users\dileesh\Desktop\train\train'
