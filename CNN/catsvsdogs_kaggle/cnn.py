@@ -4,7 +4,6 @@ import os
 from random import shuffle
 
 
-
 TRAIN_DIR = r'C:\Users\dileesh\Desktop\train\train'
 TEST_DIR = r'C:\Users\dileesh\Desktop\test\test'
 IMG_SIZE = 50
